@@ -1,2 +1,4 @@
 # Employees-CRUD-Web-App
-Web App with Spring MVC, Spring Boot and Thymeleaf
+A web app where you can list, add, update and delete employees.
+
+Made with: Spring Boot, Spring MVC, Spring Data JPA, Thymeleaf, Bootstrap
